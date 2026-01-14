@@ -51,9 +51,13 @@
 ### 第 5 週：光達避障實作
 - LaserScan 資料結構（ranges）
 - 簡易避障邏輯設計
-- 範例程式修改與參數調整  
+- 範例程式修改與參數調整 
+- Interactive Markers
+- Relative Move
+- Absolute Move
 **實作：**
 - TurtleBot3 光達自動避障實作
+- 三種新的控制方式(Interactive Markers, Relative Move, Absolute Move)
 
 ---
 

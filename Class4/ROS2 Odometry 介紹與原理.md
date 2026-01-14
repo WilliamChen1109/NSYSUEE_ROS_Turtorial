@@ -20,6 +20,7 @@ Odometry 的核心原理是 **根據機器人的運動模型，將速度或輪�
 $$v = \frac{v_R + v_L}{2} \quad \text{(線速度)}$$
 
 $$\omega = \frac{v_R - v_L}{b} \quad \text{(角速度)}$$
+
 其中：
 - $v$ 為機器人沿前進方向的速度  
 - $\omega$ 為機器人旋轉速度  
